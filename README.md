@@ -1,0 +1,1 @@
+This is a repository meant to document all of my javascript creations along my journey of continually learning web design.
