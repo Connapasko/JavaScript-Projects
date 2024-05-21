@@ -1,0 +1,1 @@
+This is an application that prompts the user for a message, and then outputs the message on screen. The purpose of this project is to display basic knowledge of HTML, CSS, and JS working and tandem while demonstrating the action of extracting text from an input box and diplaying it with a button.
