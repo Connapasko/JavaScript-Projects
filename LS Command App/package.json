@@ -1,0 +1,19 @@
+{
+  "name": "ls-command-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "nls": "app.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "type": "module"
+}
